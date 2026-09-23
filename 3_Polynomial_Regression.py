@@ -1,4 +1,3 @@
-# https://github.com/atilsamancioglu/MachineLearningNotebooks/blob/main/3-PolynomialRegression.ipynb
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
